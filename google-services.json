@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1046928875257",
+    "firebase_url": "https://eekhgames-default-rtdb.firebaseio.com",
+    "project_id": "eekhgames",
+    "storage_bucket": "eekhgames.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046928875257:android:98021096f1be5dcd514c28",
+        "android_client_info": {
+          "package_name": "com.kushagra321.eekhGames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046928875257-t83t9tki31gb0er9f7oj9225fflee4rc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kushagra321.eekhGames",
+            "certificate_hash": "9076434b660bb4c3d798dadcb055eeaa1600d2e2"
+          }
+        },
+        {
+          "client_id": "1046928875257-uqn4qpdl2eva3rpfipgso07ienrc8udc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kushagra321.eekhGames",
+            "certificate_hash": "db3e9dcc04a6f9ee70142bcec3da5ed083e001ce"
+          }
+        },
+        {
+          "client_id": "1046928875257-sqk9tfovo8monvbtv9b3ola9cbvulb8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMboML-fQhxZ3MoLwqO5HfGZXIimPAhAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046928875257-sqk9tfovo8monvbtv9b3ola9cbvulb8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
